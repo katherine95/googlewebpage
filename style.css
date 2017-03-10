@@ -1,7 +1,14 @@
 .body{
-    margin: 0 auto;
-    text-align: center;
+  margin: 0 auto;
+  text-align: center;
+  height:80%;
+  position: relative;
 
+}
+#page-wrap {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
 }
 .p{
 	margin-left: auto;
